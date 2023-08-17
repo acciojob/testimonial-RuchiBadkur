@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+section{
+	padding: 20px;
+	background-color:#f5f5f5;
+}
+
+td{
+	padding:20px;
+	border:1px solid whitesmoke;
+	background-color:white;
+}
