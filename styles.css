@@ -6,6 +6,11 @@ section{
 
 td{
 	padding:20px;
-	border:1px solid whitesmoke;
 	background-color:white;
+	border:1px solid whitesmoke;
+	
+}
+.rightbox{
+	text-align:right;
+	font-style:italic;
 }
